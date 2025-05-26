@@ -35,8 +35,8 @@ const USERS_CSV = path.join(dataDir, 'users.csv');
 const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'achhutanandjha1@gmail.com', // ✅ Add your Gmail address
-        pass: 'xhjd zsms lnvd cxmz'  // ✅ Use app-specific password
+        user: '', // ✅ Add your Gmail address
+        pass: ''  // ✅ Use app-specific password
     }
 });
 
