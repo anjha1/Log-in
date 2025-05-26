@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1748265074641",
+    "name": "abc",
+    "email": "theanjha@gmail.com",
+    "phone": "8439131459",
+    "password": "Ram@1234",
+    "role": "user",
+    "createdAt": "2025-05-26T13:11:14.641Z",
+    "verified": true
+  }
+]
