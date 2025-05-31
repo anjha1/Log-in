@@ -266,7 +266,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Redirect based on role
             window.location.href = data.user.role === 'technician' 
                 ? 'technician-dashboard.html' 
-                : 'user-dashboard.html';
+                : 'https://anjha1.github.io/TechSeva//TechSeva-website/';
 
         } catch (error) {
             console.error('Error:', error);
